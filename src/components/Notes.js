@@ -72,7 +72,7 @@ const Notes = (props) => {
   </div>
 </div>
         <div className="row my-3  ">
-            <h2 className='text-light'>Your Notes</h2> 
+            <h2 className='text-light'>Your Note</h2> 
             <div  className='container mx-2 text-dark'>
             {notes.length===0 && " please add notes on your account"}
             </div>
